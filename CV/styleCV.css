@@ -1,5 +1,6 @@
           a {
     text-decoration: none;
+    color: white;
   }
             h1 {
     font-size: 55px;
@@ -8,7 +9,7 @@
             font-family: Courier-New, sans-serif;
             font-size: 22px;
             margin: 0;
-            padding: 1px;
+            padding: 91px;
             background-color: #f4f4f4;
             display: flex;
             width: 100%;
@@ -55,3 +56,37 @@
             background: #4D5563;
             margin: 10px;
         }
+
+        .menu {justify-content: center;
+              padding: 30px 0;
+              margin: 10px;
+              position: fixed;
+              top: 0; 
+              background-color: #2A3742;
+              left: 0;
+              z-index: 1000;
+              width: 100%;
+              color: white;
+               position: fixed;
+    top: 0; 
+    left: 0;
+    gap: 202px;
+
+        }
+
+        .menulink {
+           
+           
+            color: white;
+           padding: 1px;
+            border-radius: 11px;
+            width: 212px;
+            background-color: #4D5563;
+            display: auto;
+            font-size: 29px;
+            margin: 19px;
+
+         
+           
+        }
+
